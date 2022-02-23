@@ -1,5 +1,5 @@
 # PULSE with ATTR
-PULSE(https://github.com/adamian98/pulse)をもとにした、属性付与に対応した顔画像の超解像処理モデルです。
+PULSE( https://github.com/adamian98/pulse )をもとにした、属性付与に対応した顔画像の超解像処理モデルです。
 
 ## 実行結果
 
@@ -56,4 +56,4 @@ python run_getLatent.py -input_dir demo_high_input -latent_dir latent
 
 
 ## 環境構築
-おおもとであるPULSE(https://github.com/adamian98/pulse)を参考にお願いします。
+おおもとであるPULSE( https://github.com/adamian98/pulse )を参考にお願いします。
